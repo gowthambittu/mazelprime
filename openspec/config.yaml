@@ -1,0 +1,10 @@
+schema: spec-driven
+project: mazelprime
+stack: static HTML, CSS, vanilla JavaScript, Netlify Forms
+context: |
+	This is a static website, not a backend service. Read ../AGENTS.md and
+	../README.txt from this directory. The root index.html owns browser behavior
+	and Netlify submissions; thank-you.html is a static confirmation page.
+	There is no committed build system or automated test suite.
+	Preserve user changes and require approval before deploying or sending leads.
+# generated-by: poppins · do not remove (poppins-commit re-adds it)
